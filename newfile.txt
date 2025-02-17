@@ -2,4 +2,4 @@ this file contain data
 
 This is a fine commit
 
-this commit is not fine (bug,issue,wrong) 
+this commit is not fine (bug,issue,wrong code) 
